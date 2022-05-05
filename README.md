@@ -1,4 +1,5 @@
-Go to this website to use this app: https://article-three.vercel.app/
+Go to this website to use this app: https://article-three.vercel.app/  \
+Type the text in the search box. Do not click enter, it will automatically search for article in wikipedia and show the result.
 
 
 # Getting Started with Create React App
